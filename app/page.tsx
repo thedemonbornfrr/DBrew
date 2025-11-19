@@ -5,7 +5,7 @@ import Particles from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
 import type { Engine } from "@tsparticles/engine";
 import { Copy, Check, Shield, Zap, Sparkles, LockKeyhole } from "lucide-react";
-import { luraphVM } from "@/lib/luraph-vm";
+import { luraphVM } from "./lib/luraph-vm";
 
 const CODE = "7ATDBREWOBF";
 
