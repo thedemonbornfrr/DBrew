@@ -12,7 +12,7 @@
     "next": "14.2.15",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "tsparticles-slim": "^3.8.0"
+    "tsparticles-slim": "^3.5.0"
   },
   "devDependencies": {
     "eslint": "^8",
